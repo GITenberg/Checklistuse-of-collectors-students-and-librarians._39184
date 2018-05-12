@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '45453'
     url: http://www.gutenberg.org/2009/agents/45453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39184#Checklistuse-of-collectors-students-and-librarians.
 gutenberg_issued: '2012-03-17'
 gutenberg_type: Text
 identifiers:
