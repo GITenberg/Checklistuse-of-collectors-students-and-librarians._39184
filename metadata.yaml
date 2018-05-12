@@ -1,0 +1,36 @@
+_repo: Checklistuse-of-collectors-students-and-librarians._39184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Bradley, Marion Zimmer
+    birthdate: 1930
+    deathdate: 1999
+    gutenberg_agent_id: '8842'
+    url: http://www.gutenberg.org/2009/agents/8842
+    wikipedia: http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+  - agent_name: Damon, Gene
+    birthdate: 1933
+    deathdate: 2011
+    gutenberg_agent_id: '45453'
+    url: http://www.gutenberg.org/2009/agents/45453
+description: ''
+gutenberg_issued: '2012-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39184'
+  lccn: '60037709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paraphilias in literature -- Bibliography'
+- !lcsh 'Fiction -- Bibliography'
+- !lcc 'Z'
+title: "Checklist\r\nA complete, cumulative Checklist of lesbian, variant and homosexual\
+  \ fiction, in English or available in English translation, with supplements of related\
+  \ material, for the use of collectors, students and librarians."
+url: http://www.gutenberg.org/ebooks/39184
